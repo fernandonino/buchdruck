@@ -1,0 +1,21 @@
+{
+  "id": "f45d4a87d542f4dd",
+  "email": "nino.fernando@gmail.com",
+  "pending_articles": 1,
+  "articles": [
+    {
+      "id": "80ed99facfb7d3c55a76e6fd3a09c439eb0f9ba4",
+      "url": "http://www.paulgraham.com/smart.html",
+      "title": "Beyond Smart",
+      "saved_on": "2022-01-13T18:30:48Z",
+      "html_content": "<body></body>",
+      "exported": "false"
+    }
+  ],
+  "conf": {
+    "destination_address": "kindle.nino.fernando@kindle.amazon.com",
+    "frequency": 1,
+    "frequency_unit": "DAY",
+    "scheduled_time": "23:00"
+  }
+}

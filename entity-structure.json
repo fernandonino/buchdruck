@@ -1,0 +1,21 @@
+{
+  "id": "",
+  "email": "",
+  "pending_articles": 0,
+  "articles": [
+    {
+      "id": "",
+      "url": "",
+      "title": "",
+      "saved_on": "",
+      "html_content": "",
+      "exported": ""
+    }
+  ],
+  "conf": {
+    "destination_address": "",
+    "frequency": 0,
+    "frequency_unit": "",
+    "scheduled_time": ""
+  }
+}
